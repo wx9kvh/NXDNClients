@@ -244,7 +244,10 @@
 31426 3.215.215.169 41400
 
 # 31444 Rhode Island Digital Link
-31444	18.219.32.21	41400
+31444	18.219.32.21  41400
+
+# 31555 Wisconsin Digital Mobile Radio
+31555 144.202.54.23  41400
 
 # 31665 TGIF Network
 31665	tgif.network	41400
